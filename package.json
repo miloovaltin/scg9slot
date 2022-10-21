@@ -1,16 +1,16 @@
 {
-"name": "scg9slot",
-"theme": "scg9 slot",
-"version": "7.6.3",
-"description": "scg9 slot ทางเข้าหลักเว็บไซต์บาคาร่าเว็บตรง คนเล่นเยอะ แจกเครดิตฟรี",
-"keywords": [
-"scg9 slot",
-"scg9 slot เครดิตฟรี",
-"scg9 slot ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/scg9slot",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "scg9slot",
+  "theme": "scg9 slot",
+  "version": "7.7.0",
+  "description": "scg9 slot ทางเข้าหลักเว็บไซต์บาคาร่าเว็บตรง คนเล่นเยอะ แจกเครดิตฟรี",
+  "keywords": [
+    "scg9 slot",
+    "scg9 slot เครดิตฟรี",
+    "scg9 slot ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/scg9slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
